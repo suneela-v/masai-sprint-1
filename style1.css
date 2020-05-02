@@ -1,0 +1,30 @@
+.ml1{
+    margin-left:45px;
+   
+  }
+  .ml2{
+    margin-left:55px
+  }
+  .ml3{
+    margin-left:65px
+  }
+  .small{
+    font-size:20px;
+  }
+  .medium{
+    font-size:25px;
+  }
+  li:nth-child(odd){
+      color:coral;
+    font-size:20px;
+    
+  }
+  li:nth-child(even){
+    color:blue;
+    background-color:white;
+    font-size:20px;
+    padding:10px
+  }
+  .violet{
+    color:violet;et
+  }
